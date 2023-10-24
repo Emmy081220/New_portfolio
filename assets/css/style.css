@@ -26,6 +26,8 @@ body {
   font-weight: 400;
   overflow-x: hidden !important;
   position: relative;
+
+  cursor: url(../imgs/Green\ CGC.cur), auto;
 }
 
 body:before {
